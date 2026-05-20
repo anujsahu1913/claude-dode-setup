@@ -21,6 +21,10 @@ Output:
 
 Here is the input field in the terminal itself – now ask your query right here in your code base. This will read the entire directory and help you in many ways.
 
+<img width="1718" height="190" alt="image" src="https://github.com/user-attachments/assets/9e7f145d-6a1f-4d8a-b517-49c43f07ec06" />
+
+
+
 
                                   **Process to setup claude code in VSCode**
 
@@ -38,4 +42,6 @@ Extension will look something like this:
 5- After sucessfully logged in you will be having the option to use Claude in your VSCode.
 
 6- Here write your prompt an that will help you out in your project.
+
 <img width="446" height="380" alt="image" src="https://github.com/user-attachments/assets/a2ba7849-5ae9-43e2-b691-a3d4c57731e5" />
+
