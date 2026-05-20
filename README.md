@@ -1,5 +1,5 @@
 
-Process to setup claude code in VSCode
+                                  **Process to setup claude code in VSCode**
 
 1- First purchase pro plan.
 2- Go to the terminal and paste 
