@@ -2,8 +2,10 @@
                                   **Process to setup claude code via SSH on linux **
 
 1- First purchase pro plan.
+
 2- Go to the terminal and paste 
 curl -fsSL https://claude.ai/install.sh | bash
+
 Output:
 
 <img width="843" height="373" alt="image" src="https://github.com/user-attachments/assets/b1aba49b-819a-4c49-bde8-a3e189bbcbf4" />
@@ -15,6 +17,7 @@ Note: Since this path ~/.local/bin was not my native path for claude installatio
 4- Go to your project directory say ~/projects/******/******/******/custom-api/
 
 5- Now run claude
+
 Output:
 
 <img width="1904" height="239" alt="image" src="https://github.com/user-attachments/assets/443961b7-a58c-445a-87f7-4f6e5ad55a41" />
@@ -29,10 +32,13 @@ Here is the input field in the terminal itself – now ask your query right here
                                   **Process to setup claude code in VSCode**
 
 1- Here you need to go to Extension->Find Claude Code-> Click Install
+
 Extension will look something like this:
+
 <img width="1315" height="197" alt="image" src="https://github.com/user-attachments/assets/e771ae38-f5a0-49e4-89e7-a597ff8eef08" />
 
 2- After installation you will get an option to login into claude account. Here are the options you gonna see.
+
 <img width="679" height="595" alt="image" src="https://github.com/user-attachments/assets/84a205c2-6d05-43c1-91f5-c8ceacaf328e" />
 
 3- If you have paid subscription click on the first option i.e. Claude.ai Subscription.
