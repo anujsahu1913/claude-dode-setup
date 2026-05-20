@@ -12,7 +12,7 @@ Note: Since this path ~/.local/bin was not my native path for claude installatio
 
 3- Run echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
 
-4- Go to your project directory say ~/projects/senecadairy/2026/May/15/bigcommerce-api/
+4- Go to your project directory say ~/projects/******/******/******/custom-api/
 
 5- Now run claude
 Output:
