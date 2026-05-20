@@ -1,7 +1,7 @@
 
                                   **Process to setup claude code via SSH on linux **
 
-1- First purchase pro plan.
+1- First purchase pro plan. Also for free with Free API Keys.
 
 2- Go to the terminal and paste 
 curl -fsSL https://claude.ai/install.sh | bash
